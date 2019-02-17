@@ -34,8 +34,11 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ### Running Local
 
 Step 1: Run `npm install` to install the dependencies on locale.
+
 Step 2: Run `npm start` for a dev server. Navigate to `http://localhost:3200/`. `npm start` will start the application with typescript.
 
-## Start Node with JS
+### Start Node with JS
+
 Step 1: run `npm tsc`. This will transpile typescript to js into dist folder.
+
 Step 2: run `npm run prod`. To run the application with js. Recomended for PROD environment
