@@ -6,7 +6,7 @@
   "scripts": {
     "tsc": "tsc",
     "start": "ts-node-dev --respawn --transpileOnly ./server.ts",
-    "prod": "tsc && node ./dist/server.js",
+    "prod": "tsc && nodemon ./dist/server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Rakesh Kumar",
@@ -17,5 +17,8 @@
     "express": "^4.16.4",
     "ts-node-dev": "^1.0.0-pre.32",
     "typescript": "^3.3.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
   }
 }
