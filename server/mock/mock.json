@@ -1,0 +1,40 @@
+{
+    "booksList": [
+        {
+            "name": "God Won't Help: Affirmations of the Reluctant God",
+            "author": "Rajiv Grover",
+            "pages": 118,
+            "publisher": "Notion Press, Inc.; 1 edition (21 June 2018)",
+            "language": "English",
+            "geners": "Literature & Fiction",
+            "img_url": "https://images-na.ssl-images-amazon.com/images/I/41uOfwQnNSL._SX311_BO1,204,203,200_.jpg"
+        },
+        {
+            "name": "Devlok Devdutt Pattanaik Ke Sang",
+            "author": "Devdutt Pattanaik",
+            "pages": 210,
+            "Publisher": "Penguin Hindi (28 September 2016)",
+            "Language": "Hindi",
+            "geners": "Indian Writing",
+            "img_url": "https://images-na.ssl-images-amazon.com/images/I/51yTot%2BEv8L._SX325_BO1,204,203,200_.jpg"
+        },
+        {
+            "name": "Immortal Talks",
+            "author": "Shunya",
+            "pages": 118,
+            "Publisher": "Seer Books (2017)",
+            "Language": "English",
+            "geners": "Religious & Spiritual Fiction",
+            "img_url": "https://images-na.ssl-images-amazon.com/images/I/41N8oONe5cL._SX332_BO1,204,203,200_.jpg"
+        },
+        {
+            "name": "Gems of Wisdom: Quotes on Life, Love, Justice, Karma, Spiritualism",
+            "author": "Nitin Kumar ",
+            "pages": 200,
+            "Publisher": "Notion Press, Inc.; 1 edition (15 November 2018)",
+            "Language": "English",
+            "geners": "Literature & Fiction",
+            "img_url": "https://images-na.ssl-images-amazon.com/images/I/41VEYbIpFML._SX311_BO1,204,203,200_.jpg"
+        }
+    ]
+}

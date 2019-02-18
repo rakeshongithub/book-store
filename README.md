@@ -42,3 +42,7 @@ Step 2: Run `npm start` for a dev server. Navigate to `http://localhost:3200/`. 
 Step 1: run `npm tsc`. This will transpile typescript to js into dist folder.
 
 Step 2: run `npm run prod`. To run the application with js. Recomended for PROD environment
+
+### Lint Check
+
+Run `npm run lint`
