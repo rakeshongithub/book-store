@@ -1,4 +1,5 @@
 import express from "express";
+import cors from 'cors';
 import Routes from "./routes/routes";
 
 const routes = new Routes();
@@ -17,8 +18,10 @@ class App {
    * @description method to initialize the app route
    */
   private init(): void {
+    this.app.use(cors());
     routes.init(this.app);
   }
+  
 
 }
 

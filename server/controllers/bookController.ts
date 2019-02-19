@@ -11,6 +11,7 @@ export default class BookController {
      * @param res
      */
     public getBooksList(req: any, res: any): void {
+        console.log('=> successfully get all book list')
         res.send(booksList);
     }
 
@@ -24,6 +25,7 @@ export default class BookController {
         booksList.forEach((item) => {
             geners.push(item.geners);
         });
+        console.log('=> successfully get data')
         res.send(geners);
     }
 }
