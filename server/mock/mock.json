@@ -7,34 +7,38 @@
             "publisher": "Notion Press, Inc.; 1 edition (21 June 2018)",
             "language": "English",
             "geners": "Literature & Fiction",
-            "img_url": "https://images-na.ssl-images-amazon.com/images/I/41uOfwQnNSL._SX311_BO1,204,203,200_.jpg"
+            "img_url": "https://images-na.ssl-images-amazon.com/images/I/41uOfwQnNSL._SX311_BO1,204,203,200_.jpg",
+            "description": "A chance meeting with a former US Army Special Forces officer AKA Candyman in war-torn Kabul sets Shiv, a disillusioned civil engineer, from the comforts of Mumbai on a journey to find his inner peace. The craggy peaks and troughs of the Karakoram Range echo the ups and downs of Shiv's life as he seeks answers to questions of life, destiny and happiness. In a way, Shiv's travails are no different from that of millions of others seeking answers to the apparent unfairness in life's distribution of bounties and miseries. Keeping him company in this quest is Nasir, a dour-faced Pashtun, who struggles with his own torments as he despairs at the caprices of fate."
         },
         {
             "name": "Devlok Devdutt Pattanaik Ke Sang",
             "author": "Devdutt Pattanaik",
             "pages": 210,
-            "Publisher": "Penguin Hindi (28 September 2016)",
-            "Language": "Hindi",
+            "publisher": "Penguin Hindi (28 September 2016)",
+            "language": "Hindi",
             "geners": "Indian Writing",
-            "img_url": "https://images-na.ssl-images-amazon.com/images/I/51yTot%2BEv8L._SX325_BO1,204,203,200_.jpg"
+            "img_url": "https://images-na.ssl-images-amazon.com/images/I/51yTot%2BEv8L._SX325_BO1,204,203,200_.jpg",
+            "description": "Over several months, EPIC Channel’s ground-breaking show Devlok with Devdutt Pattanaik has enthralled countless viewers. Here, finally, is the book based on the first series of the ever-popular show, which will take you on a scintillating tour through the myriad stories, symbols and rituals that form the basis of Hindu culture. Prepare to be surprised and thrilled as Devdutt narrates magical tales about larger-than-life figures—gods, goddesses, demi-gods and demons who you thought you knew well but didn’t. Learn about the intricacies of Hindu thought as he explains the origin and meaning of different creation myths and throws light on why we believe in a cyclical—not linear—concept of time. This book is your perfect introduction to the endlessly fascinating world of Hindu mythology."
         },
         {
             "name": "Immortal Talks",
             "author": "Shunya",
             "pages": 118,
-            "Publisher": "Seer Books (2017)",
-            "Language": "English",
+            "publisher": "Seer Books (2017)",
+            "language": "English",
             "geners": "Religious & Spiritual Fiction",
-            "img_url": "https://images-na.ssl-images-amazon.com/images/I/41N8oONe5cL._SX332_BO1,204,203,200_.jpg"
+            "img_url": "https://images-na.ssl-images-amazon.com/images/I/41N8oONe5cL._SX332_BO1,204,203,200_.jpg",
+            "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of 'de Finibus Bonorum et Malorum' (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, 'Lorem ipsum dolor sit amet..', comes from a line in section 1.10.32."
         },
         {
             "name": "Gems of Wisdom: Quotes on Life, Love, Justice, Karma, Spiritualism",
             "author": "Nitin Kumar ",
             "pages": 200,
-            "Publisher": "Notion Press, Inc.; 1 edition (15 November 2018)",
-            "Language": "English",
+            "publisher": "Notion Press, Inc.; 1 edition (15 November 2018)",
+            "language": "English",
             "geners": "Literature & Fiction",
-            "img_url": "https://images-na.ssl-images-amazon.com/images/I/41VEYbIpFML._SX311_BO1,204,203,200_.jpg"
+            "img_url": "https://images-na.ssl-images-amazon.com/images/I/41VEYbIpFML._SX311_BO1,204,203,200_.jpg",
+            "description": "Thought provoking sayings, quotes on contemporary experience and collected from the stormy seas of life. Very original, meaningful and incisive, explained to you in a conversational and light-hearted way. Is love higher than lofty ideals?"
         }
     ]
 }

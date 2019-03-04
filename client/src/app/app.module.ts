@@ -6,15 +6,25 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { HomeComponent } from './home/home.component';
+
+//Shared
+import { TruncatePipe } from './shared/truncate.pipe';
+
 import {
   MatToolbarModule,
-  MatButtonModule
+  MatButtonModule,
+  MatCardModule,
+  MatListModule,
+  MatDividerModule,
+  MatBadgeModule,
+  MatIconModule
 } from '@angular/material';
 
 @NgModule({
   declarations: [
     AppComponent,
-    HomeComponent
+    HomeComponent,
+    TruncatePipe
   ],
   imports: [
     BrowserModule,
@@ -22,7 +32,12 @@ import {
     BrowserAnimationsModule,
     HttpClientModule,
     MatToolbarModule,
-    MatButtonModule
+    MatButtonModule,
+    MatCardModule,
+    MatListModule,
+    MatDividerModule,
+    MatBadgeModule,
+    MatIconModule
   ],
   providers: [],
   bootstrap: [AppComponent]
